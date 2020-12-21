@@ -1,5 +1,4 @@
-# ECommerceApp
-
+# NotchedBottomBar
 A new Flutter project.
 
 ## Getting Started
